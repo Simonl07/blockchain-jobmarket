@@ -1,6 +1,6 @@
 # Blockchain-based Job Market
 
-https://youtu.be/7CAsU0Vj_X0 demo
+video demo: https://youtu.be/7CAsU0Vj_X0
 
 ![diagram](https://raw.githubusercontent.com/Simonl07/blockchain-jobmarket/master/diagram.png)
 
