@@ -2,7 +2,7 @@
 
 https://youtu.be/7CAsU0Vj_X0 demo
 
-![diagram](https://raw.githubusercontent.com/usfcs686/cs686-blockchain-p3-Simonl07/master/diagram.png?token=AFC2RFW6C5F5ZCH6LHE5BLS4436B4)
+![diagram](https://raw.githubusercontent.com/Simonl07/blockchain-jobmarket/master/diagram.png)
 
 ### Three players:
 * Applicant
