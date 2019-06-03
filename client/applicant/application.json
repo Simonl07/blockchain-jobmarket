@@ -1,0 +1,19 @@
+{
+	"identity": {
+		"name": "Simon",
+		"age": 21,
+		"address": "123 abc street",
+		"email": "mlu18@dons.usfca.edu"
+	},
+	"merit": {
+		"experience": [
+			"experience A",
+			"experience B",
+			"experience C"
+		],
+		"education": [
+			"education A",
+			"education B"
+		]
+	}
+}
